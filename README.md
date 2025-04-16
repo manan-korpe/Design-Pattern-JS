@@ -1,2 +1,2 @@
 # Design-Pattern-JS
-this repo for diffrent design pattern for javaScript
+this repo for different design pattern for javaScript
